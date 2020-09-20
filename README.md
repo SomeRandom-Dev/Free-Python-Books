@@ -48,6 +48,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * IPython Interactive Computing and Visualization Cookbook [[Download]](/book/IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf)
 * Learn More Python 3 the Hard Way - The Next Step for New Python Programmers [[Download]](/book/Learn%20More%20Python%203%20the%20Hard%20Way%20-%20The%20Next%20Step%20for%20New%20Python%20Programmers.pdf)
 * Learn Python In A DAY - The Ultimate Crash Course to Learning the Basics of Python In No Time [[Download]](/book/Learn%20Python%20In%20A%20DAY%20-%20The%20Ultimate%20Crash%20Course%20to%20Learning%20the%20Basics%20of%20Python%20In%20No%20Time.epub)
+* Learn Python in One Day and Learn It Well [[Download]](/book/Learn%20Python%20in%20One%20Day%20and%20Learn%20It%20Well%20Python%20for%20Beginners%20with%20Hands-on%20Project.%20The%20only%20book%20you%20need%20to%20start%20coding%20in%20Python%20immediately%20%28%20PDFDrive.com%20%29.pdf)
 * Learning Cython Programming [[Download]](/book/Learning%20Cython%20Programming.pdf)
 * Learning OpenCV 3 Computer Vision with Python - Second Edition [[Download]](/book/Learning%20OpenCV%203%20Computer%20Vision%20with%20Python%20-%20Second%20Edition.pdf)
 * Learning Python - Fabrizio Romano [[Download]](/book/Learning%20Python%20-%20Fabrizio%20Romano.pdf)
