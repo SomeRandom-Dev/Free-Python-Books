@@ -72,6 +72,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * OpenCV with Python Blueprints [[Download]](/book/OpenCV%20with%20Python%20Blueprints.pdf)
 * OpenCV with Python By Example [[Download]](/book/OpenCV%20with%20Python%20By%20Example.pdf)
 * Parallel Programming with Python [[Download]](/book/Parallel%20Programming%20with%20Python.pdf)
+* Picking A Python Version: A Manifesto [[Download]](/book/from-future-import-python.epub)
 * Powerful Python - Second Edition [[Download]](/book/Powerful%20Python%20-%20Second%20Edition.epub)
 * Practical Django Projects [[Download]](/book/Practical%20Django%20Projects.pdf)
 * Practical Programming - An Introduction to Computer Science Using Python 3 [[Download]](/book/Practical%20Programming%20-%20An%20Introduction%20to%20Computer%20Science%20Using%20Python%203.pdf)
